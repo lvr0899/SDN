@@ -1,3 +1,3 @@
 # SDN
-Implemented a web service using load balancing in MS Azure Cloud
+Implemention of Load Balancer for HTTP Requests in MS Azure using Virtualization Techniques
 with Python programming.
